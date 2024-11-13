@@ -67,5 +67,3 @@ The dataset includes sales transactions from three Walmart branches located in M
 Both dashboards were designed in Power BI, providing interactive insights. Due to file format limitations, please download and open the `.pbix` files in Power BI for full functionality.
 
 ### Thank You!
-
-These dashboards demonstrate my ability to conduct in-depth data analysis and create actionable insights through visualization. They offer a blend of SQL-based data preprocessing, Power BI visualization, and business acumen, making them ideal for presenting to recruiters as examples of my analytical and technical skills.
