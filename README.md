@@ -30,7 +30,7 @@ This dataset captures cookie sales, revenue, and customer details across various
   - Key customer states based on cookie sales and profit, aiding in targeted marketing strategies.
 
 ### Dashboard Screenshots
-![Kevin Cookie Sales Dashboard Overview](Power BI/Kevin Cookie Sales Dashboard/Screenshot (289).png)
+![Kevin Cookie Sales Dashboard Overview](path/to/Power BI/Kevin Cookie Sales Dashboard/Screenshot (289).png)
 *Overview of the Kevin Cookie Sales Dashboard showing total revenue and top products.*
 
 ---
